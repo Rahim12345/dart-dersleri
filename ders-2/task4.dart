@@ -1,4 +1,4 @@
-import 'classes/User.dart';
+import 'classes/task4/User.dart';
 
 void main() {
   dynamic user = User(name: 'Rahim', surname: 'Süleymanov', age: 29);
